@@ -21,8 +21,8 @@ def fourth_challenge
         {name: "Steven",
         age: "30",
         attitude: "confused"},
-        {name: "Mercutio",
-        age: "18",
+        {name: "Nurse",
+        age: "44",
         attitude: "hot-headed"}
       ]
    }
